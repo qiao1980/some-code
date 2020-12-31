@@ -1,7 +1,5 @@
-import time
-
 a = 1
 
-print(time.time())
+print(123)
 
 print(a)
